@@ -14,7 +14,7 @@ Giải pháp: Dùng Persistent Cookies để ghi nhớ
 
 # Phần 2. Triển khai
 
-Cookie mẫu:
+
 
 `Set-Cookie: session_token=abc123; Max-Age=604800; HttpOnly; Secure; SameSite=Lax; Path=/`
 
